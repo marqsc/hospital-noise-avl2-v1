@@ -1,0 +1,19 @@
+# Java build output
+out/
+target/
+build/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+
+# Local configuration
+.env
